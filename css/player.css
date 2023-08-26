@@ -12,6 +12,7 @@
 /* 歌曲列表 */
 
 .music-player__list {
+	height: 400px;
     width: 100%;
     padding: 10px;
     margin-top: 50px;
@@ -19,6 +20,19 @@
     border-radius: 5px;
     -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+	overflow: auto;
+}
+.music-player__list::-webkit-scrollbar{
+  width:15px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+/* .music-player__list::-webkit-scrollbar-track{
+  background:rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+} */
+.music-player__list::-webkit-scrollbar-thumb{
+  background:gray;
+  border-radius: 15px;
 }
 
 .music__list__item {
