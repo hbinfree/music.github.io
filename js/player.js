@@ -26,32 +26,588 @@ class Musics {
     constructor() {
         this.songs = [{
                 id: 1,
+                title: '激1',
+                singer: '激1',
+                songUrl: './songs/激1.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 2,
+                title: '激2',
+                singer: '激2',
+                songUrl: './songs/激2.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 3,
+                title: '激3',
+                singer: '激3',
+                songUrl: './songs/激3.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 4,
+                title: '激4',
+                singer: '激4',
+                songUrl: './songs/激4.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 5,
+                title: '激5',
+                singer: '激5',
+                songUrl: './songs/激5.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 6,
+                title: '激6',
+                singer: '激6',
+                songUrl: './songs/激6.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 7,
+                title: '激7',
+                singer: '激7',
+                songUrl: './songs/激7.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 8,
+                title: '激8',
+                singer: '激8',
+                songUrl: './songs/激8.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 9,
+                title: '激9',
+                singer: '激9',
+                songUrl: './songs/激9.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 10,
+                title: '激10',
+                singer: '激10',
+                songUrl: './songs/激10.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 11,
+                title: '激11',
+                singer: '激11',
+                songUrl: './songs/激11.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 12,
+                title: '激12',
+                singer: '激12',
+                songUrl: './songs/激12.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 13,
+                title: '激13',
+                singer: '激13',
+                songUrl: './songs/激13.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 14,
+                title: '激14',
+                singer: '激14',
+                songUrl: './songs/激14.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 15,
+                title: '激15',
+                singer: '激15',
+                songUrl: './songs/激15.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 16,
+                title: '激16',
+                singer: '激16',
+                songUrl: './songs/激16.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 17,
+                title: '激17',
+                singer: '激17',
+                songUrl: './songs/激17.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 18,
+                title: '激18',
+                singer: '激18',
+                songUrl: './songs/激18.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+			},
+						{
+                id: 19,
+                title: '激19',
+                singer: '激19',
+                songUrl: './songs/激19.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 20,
+                title: '激20',
+                singer: '激20',
+                songUrl: './songs/激20.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 21,
+                title: '激21',
+                singer: '激21',
+                songUrl: './songs/激21.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 22,
+                title: '激22',
+                singer: '激22',
+                songUrl: './songs/激22.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 23,
+                title: '激23',
+                singer: '激23',
+                songUrl: './songs/激23.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 24,
+                title: '激24',
+                singer: '激24',
+                songUrl: './songs/激24.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 25,
+                title: '激25',
+                singer: '激25',
+                songUrl: './songs/激25.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 26,
+                title: '激26',
+                singer: '激26',
+                songUrl: './songs/激26.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 27,
+                title: '激27',
+                singer: '激27',
+                songUrl: './songs/激27.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 28,
+                title: '激28',
+                singer: '激28',
+                songUrl: './songs/激28.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 29,
+                title: '激29',
+                singer: '激29',
+                songUrl: './songs/激29.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 30,
+                title: '激30',
+                singer: '激30',
+                songUrl: './songs/激30.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 31,
+                title: '激31',
+                singer: '激31',
+                songUrl: './songs/激31.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 32,
+                title: '激32',
+                singer: '激32',
+                songUrl: './songs/激32.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 33,
+                title: '激33',
+                singer: '激33',
+                songUrl: './songs/激33.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 34,
+                title: '激34',
+                singer: '激34',
+                songUrl: './songs/激34.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 35,
+                title: '激35',
+                singer: '激35',
+                songUrl: './songs/激35.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 36,
+                title: '激36',
+                singer: '激36',
+                songUrl: './songs/激36.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 37,
+                title: '激37',
+                singer: '激37',
+                songUrl: './songs/激37.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 38,
+                title: '激38',
+                singer: '激38',
+                songUrl: './songs/激38.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 39,
+                title: '激39',
+                singer: '激39',
+                songUrl: './songs/激39.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 40,
+                title: '激40',
+                singer: '激40',
+                songUrl: './songs/激40.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 41,
+                title: '激41',
+                singer: '激41',
+                songUrl: './songs/激41.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 42,
+                title: '激42',
+                singer: '激42',
+                songUrl: './songs/激42.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 43,
+                title: '激43',
+                singer: '激43',
+                songUrl: './songs/激43.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 44,
+                title: '激44',
+                singer: '激44',
+                songUrl: './songs/激44.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 45,
+                title: '激45',
+                singer: '激45',
+                songUrl: './songs/激45.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 46,
+                title: '激46',
+                singer: '激46',
+                songUrl: './songs/激46.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 47,
+                title: '激47',
+                singer: '激47',
+                songUrl: './songs/激47.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 48,
+                title: '激48',
+                singer: '激48',
+                songUrl: './songs/激48.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },			{
+                id: 49,
+                title: '激49',
+                singer: '激49',
+                songUrl: './songs/激49.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 50,
+                title: '激50',
+                singer: '激50',
+                songUrl: './songs/激50.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 51,
+                title: '激51',
+                singer: '激51',
+                songUrl: './songs/激51.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 52,
+                title: '凄1',
+                singer: '凄1',
+                songUrl: './songs/凄1.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 53,
+                title: '凄2',
+                singer: '凄2',
+                songUrl: './songs/凄2.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 54,
+                title: '凄3',
+                singer: '凄3',
+                songUrl: './songs/凄3.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 55,
+                title: '凄4',
+                singer: '凄4',
+                songUrl: './songs/凄4.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+						{
+                id: 56,
+                title: '萧1',
+                singer: '萧1',
+                songUrl: './songs/萧1.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 57,
+                title: '萧2',
+                singer: '萧2',
+                songUrl: './songs/萧2.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+						{
+                id: 58,
+                title: '疑1',
+                singer: '疑1',
+                songUrl: './songs/疑1.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+									{
+                id: 59,
+                title: '疑2',
+                singer: '疑2',
+                songUrl: './songs/疑2.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 59,
+                title: '疑3',
+                singer: '疑3',
+                songUrl: './songs/疑3.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 60,
+                title: '疑4',
+                singer: '疑4',
+                songUrl: './songs/疑4.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 61,
+                title: '疑5',
+                singer: '疑5',
+                songUrl: './songs/疑5.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 62,
+                title: '疑6',
+                singer: '疑6',
+                songUrl: './songs/疑6.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 63,
+                title: '疑7',
+                singer: '疑7',
+                songUrl: './songs/疑7.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 64,
+                title: '疑8',
+                singer: '疑8',
+                songUrl: './songs/疑8.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 65,
+                title: '疑9',
+                singer: '疑9',
+                songUrl: './songs/疑9.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },						{
+                id: 66,
+                title: '疑10',
+                singer: '疑10',
+                songUrl: './songs/疑10.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },					
+			{
+                id: 67,
+                title: '疑11',
+                singer: '疑11',
+                songUrl: './songs/疑11.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+            },
+			{
+                id: 68,
+                title: '逸1',
+                singer: '逸1',
+                songUrl: './songs/逸1.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+						{
+                id: 69,
+                title: '逸2',
+                singer: '逸2',
+                songUrl: './songs/逸2.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },			{
+                id: 70,
+                title: '逸3',
+                singer: '逸3',
+                songUrl: './songs/逸3.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+						{
+                id: 71,
+                title: '逸4',
+                singer: '逸4',
+                songUrl: './songs/逸4.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+						{
+                id: 72,
+                title: '逸5',
+                singer: '逸5',
+                songUrl: './songs/逸5.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+						{
+                id: 73,
+                title: '逸6',
+                singer: '逸6',
+                songUrl: './songs/逸6.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+						{
+                id: 74,
+                title: '逸7',
+                singer: '逸7',
+                songUrl: './songs/逸7.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+            },
+			{
+                id: 75,
                 title: '明灯新仪1',
                 singer: '明灯新仪1',
                 songUrl: './songs/明灯新仪1.mp3',
                 imageUrl: './images/songs/明灯.jpg'
-            },
-			{
-                id: 2,
+			},
+						{
+                id: 76,
                 title: '明灯新仪2',
                 singer: '明灯新仪2',
                 songUrl: './songs/明灯新仪2.mp3',
                 imageUrl: './images/songs/明灯.jpg'
-            },
-			{
-                id: 3,
+			},
+						{
+                id: 77,
                 title: '明灯新仪3',
                 singer: '明灯新仪3',
                 songUrl: './songs/明灯新仪3.mp3',
                 imageUrl: './images/songs/明灯.jpg'
-            },
-			{
-                id: 3,
-                title: '凄美',
-                singer: '凄美',
-                songUrl: './songs/凄美.mp3',
-                imageUrl: './images/songs/凄美.jpg'
-            },
+			},
+						{
+                id: 78,
+                title: '明灯新仪4',
+                singer: '明灯新仪4',
+                songUrl: './songs/明灯新仪4.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+						{
+                id: 79,
+                title: '明灯新仪5',
+                singer: '明灯新仪5',
+                songUrl: './songs/明灯新仪5.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+						{
+                id: 80,
+                title: '明灯新仪6',
+                singer: '明灯新仪6',
+                songUrl: './songs/明灯新仪6.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+						{
+                id: 81,
+                title: '明灯新仪7',
+                singer: '明灯新仪7',
+                songUrl: './songs/明灯新仪7.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+						{
+                id: 82,
+                title: '明灯新仪8',
+                singer: '明灯新仪8',
+                songUrl: './songs/明灯新仪8.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+						{
+                id: 83,
+                title: '明灯新仪9',
+                singer: '明灯新仪9',
+                songUrl: './songs/明灯新仪9.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+						{
+                id: 84,
+                title: '明灯新仪10',
+                singer: '明灯新仪10',
+                songUrl: './songs/明灯新仪10.mp3',
+                imageUrl: './images/songs/明灯.jpg'
+			},
+									{
+                id: 85,
+                title: '宿舍',
+                singer: '宿舍',
+                songUrl: './songs/宿舍.mp3',
+                imageUrl: './images/songs/芬妮.jpg'
+			},
+									{
+                id: 86,
+                title: '界面',
+                singer: '界面',
+                songUrl: './songs/界面.mp3',
+                imageUrl: './images/songs/尘白.jpg'
+			},
         ]
     }
     //根据索引获取歌曲的方法
